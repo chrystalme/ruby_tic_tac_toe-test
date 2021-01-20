@@ -1,3 +1,4 @@
+class 
 def information
   puts "Please enter you name."
   @@user = gets.chomp
